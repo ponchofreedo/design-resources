@@ -1,2 +1,7 @@
-# design-resources
-Some great reading resources and some Sketch files/resources
+# ponchofreedo's design resources
+
+## Sketch assets
+Some great reading resources and some Sketch files/resources to help with productivity
+
+[ux-gestures.sketch](/sketch-files/ux-gestures.sketch "UX Gestures")  
+![ux-gestures](/img/dribbble-shots/gestures__dribbble--sm.jpg)
